@@ -1,3 +1,25 @@
+# Messier Object Catalogue Poster
+Charles Messier was an 18th-century astronomer who explored comets in the night sky. Messier knew that star clusters, nebulae, and galaxies that looked like comets were interfering with observations, so he wrote them down one by one so that he would not mistake them for comets. The list of these celestial bodies is the Messier objects.
+
+The poster shows 109 Messier objects. Each celestial body is marked within a tiled square. The width of one tile has a viewing angle of 0.5°. They are all the same scale, which will help you compare the relative sizes of celestial bodies. (The celestial bodies across multiple tiles has subtly different viewing angles, but not a big difference from multiple of tile numbers.)
+
+   * Poster size: 560mm wide X 840mm long
+   * M102 is included in the Messier list, but no equivalent objects have been found. 
+
+# Version History
+  * v1.2-May 8, 2013 (![Download](https://github.com/y-kim/messier-poster/releases/tag/v1.2))
+    * Retrive celestial data from Wikipedia
+    * Reduce line spacing
+    * Change the label position of the M110
+    * Change the paper size (560mm x 840mm, ratio consists of 2:3) 
+
+# License
+The PDF file can be used for personal or academic purposes only. Commercial use is prohibited
+
+The frame of the poster can be used if it complies with the Attribution-NonCommercial-ShareAlike 4.0 International license, but the photo should be used only if the copyright is satisfied. The Digitized Sky Survey (DSS) images do not require express permission provided the copyright holder's terms of use are satisfied, but other photographs may require explicit permission. Please note that the images without i in the WikiSky directory were typeset by DSS.
+
+The source file (messier_catalogue.hml) was written in Hancom Office HWPML 2.X format. It is specified to use Myriad Pro fonts in the source file, but if you do not have a license for this font, you must substitute another font.
+
 # 메시에 천체 목록 포스터
 샤를 메시에는 18세기의 천문학자로 밤하늘에서 혜성을 탐색하였습니다. 메시에는 혜성과 비슷하게 보이는 성단이나 성운, 은하가 관측에 방해를 준다는 것을 알고, 이러한 천체를 혜성으로 착각하지 않도록 하나 둘씩 기록해 두었습니다. 이들 천체를 모아 정리해 둔 것이 메시에 목록입니다.
 
@@ -6,11 +28,7 @@
   * 포스터 크기: 가로 560mm X 세로 840mm
   * M102는 메시에 목록에는 포함되어 있으나 이에 해당하는 천체가 발견되지 않았습니다.
 
-![Alt text](./doc/messier_catalogue_v1.2_thumb.jpg)
-
-# Messier Object Catalogue Poster
-
-TBD
+![Messier Catalogue Poster](./doc/messier_catalogue_v1.2_thumb.jpg)
 
 # 버전
   * v1.2 – 2013년 5월 8일
