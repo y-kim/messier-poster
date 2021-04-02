@@ -11,7 +11,7 @@ The poster shows 109 Messier objects. Each celestial body is marked within a til
 
 # Version History
   * v1.2-May 8, 2013 (![Download](https://github.com/y-kim/messier-poster/releases/tag/v1.2))
-    * Retrive celestial data from Wikipedia
+    * Reference Wikipedia for information of celestial bodies
     * Reduce line spacing
     * Change the label position of the M110
     * Change the paper size (560mm x 840mm, ratio consists of 2:3) 

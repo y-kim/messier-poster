@@ -3,7 +3,7 @@
   <HEAD SecCnt="1">
     <DOCSUMMARY>
       <TITLE>The Messier Catalogue</TITLE>
-      <AUTHOR>Y. Kim</AUTHOR>
+      <AUTHOR>Kim Yangsu</AUTHOR>
       <DATE>2009년 1월 30일 금요일 오후 2:17:36</DATE>
     </DOCSUMMARY>
     <DOCSETTING>
@@ -5001,7 +5001,7 @@
               </CELL>
             </ROW>
           </TABLE>
-          <CHAR></CHAR>
+          <CHAR> </CHAR>
           <TABLE BorderFill="26" CellSpacing="0" ColCount="6" PageBreak="Cell" RepeatHeader="true" RowCount="21">
             <SHAPEOBJECT InstId="2081310469" Lock="false" NumberingType="Table" ZOrder="6">
               <SIZE Height="20832" HeightRelTo="Absolute" Protect="false" Width="22816" WidthRelTo="Absolute" />
@@ -6312,7 +6312,7 @@
               </CELL>
             </ROW>
           </TABLE>
-          <CHAR></CHAR>
+          <CHAR> </CHAR>
           <TABLE BorderFill="26" CellSpacing="0" ColCount="6" PageBreak="Cell" RepeatHeader="true" RowCount="21">
             <SHAPEOBJECT InstId="2081310443" Lock="false" NumberingType="Table" ZOrder="2">
               <SIZE Height="20832" HeightRelTo="Absolute" Protect="false" Width="22816" WidthRelTo="Absolute" />
@@ -7621,7 +7621,7 @@
               </CELL>
             </ROW>
           </TABLE>
-          <CHAR></CHAR>
+          <CHAR> </CHAR>
           <TABLE BorderFill="26" CellSpacing="0" ColCount="6" PageBreak="Cell" RepeatHeader="true" RowCount="21">
             <SHAPEOBJECT InstId="2081310445" Lock="false" NumberingType="Table" ZOrder="3">
               <SIZE Height="20832" HeightRelTo="Absolute" Protect="false" Width="23099" WidthRelTo="Absolute" />
@@ -8932,7 +8932,7 @@
               </CELL>
             </ROW>
           </TABLE>
-          <CHAR></CHAR>
+          <CHAR> </CHAR>
           <TABLE BorderFill="26" CellSpacing="0" ColCount="6" PageBreak="Cell" RepeatHeader="true" RowCount="21">
             <SHAPEOBJECT InstId="2081310447" Lock="false" NumberingType="Table" ZOrder="4">
               <SIZE Height="20832" HeightRelTo="Absolute" Protect="false" Width="23610" WidthRelTo="Absolute" />
@@ -10243,7 +10243,7 @@
               </CELL>
             </ROW>
           </TABLE>
-          <CHAR></CHAR>
+          <CHAR> </CHAR>
           <TABLE BorderFill="26" CellSpacing="0" ColCount="6" PageBreak="Cell" RepeatHeader="true" RowCount="21">
             <SHAPEOBJECT InstId="2081310449" Lock="false" NumberingType="Table" ZOrder="5">
               <SIZE Height="20832" HeightRelTo="Absolute" Protect="false" Width="23099" WidthRelTo="Absolute" />
@@ -11227,7 +11227,7 @@
                 <PARALIST LineWrap="Break" LinkListID="0" LinkListIDNext="0" TextDirection="0" VertAlign="Center">
                   <P ParaShape="13" Style="0">
                     <TEXT CharShape="12">
-                      <CHAR>© 2009-2013 Y. Kim</CHAR>
+                      <CHAR>© 2009-2013 Kim Yangsu</CHAR>
                     </TEXT>
                   </P>
                 </PARALIST>
@@ -11254,10 +11254,7 @@
       </P>
       <P ParaShape="19" Style="0">
         <TEXT CharShape="13">
-          <CHAR>COPYRIGHTS 2, 11, 15, 16, 22, 27, 46, 51, 63, 76, 94, 95, 99, 104, and 109 © Jim Misti, http://www.mistisoftware.com/astronomy/., 7, 14, 33, and 98 © NOAO/AURA., 8, 16, 41, 45, 52, 61, 74, 78, 81, 82, 87, 88, 94, 95, 99, and 106 © Robert
-          Gendler, http://www.robgendlerastropics.com/., 12 © Michael Gariepy/Adam Block/NOAO/AURA/NSF., 17 © Michael Sidonio, http://www.pbase.com/strongmanmike2002., 20 © Mischa Schirmer, http://www.astro.uni-bonn.de/~mischa/., other images: The
-          Digitized Sky Survey was produced at the Space Telescope Science Institute under U.S. Government grant NAG W-2166. The images of these surveys are based on photographic data obtained using the Oschin Schmidt Telescope on Palomar Mountain and
-          the UK Schmidt Telescope. The plates were processed into the present compressed digital form with the permission of these institutions.</CHAR>
+          <CHAR>COPYRIGHTS 2, 11, 15, 16, 22, 27, 46, 51, 63, 76, 94, 95, 99, 104, and 109 © Jim Misti, http://www.mistisoftware.com/astronomy/., 7, 14, 33, and 98 © NOAO/AURA., 8, 16, 41, 45, 52, 61, 74, 78, 81, 82, 87, 88, 94, 95, 99, and 106 © Robert Gendler, http://www.robgendlerastropics.com/., 12 © Michael Gariepy/Adam Block/NOAO/AURA/NSF., 17 © Michael Sidonio, http://www.pbase.com/strongmanmike2002., 20 © Mischa Schirmer, http://www.astro.uni-bonn.de/~mischa/., other images: The Digitized Sky Survey was produced at the Space Telescope Science Institute under U.S. Government grant NAG W-2166. The images of these surveys are based on photographic data obtained using the Oschin Schmidt Telescope on Palomar Mountain and the UK Schmidt Telescope. The plates were processed into the present compressed digital form with the permission of these institutions.</CHAR>
         </TEXT>
         <TEXT CharShape="14" />
       </P>
