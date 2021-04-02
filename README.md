@@ -1,4 +1,7 @@
 # Messier Object Catalogue Poster
+
+![Messier Catalogue Poster](./doc/messier_catalogue_v1.2_thumb.jpg)
+
 Charles Messier was an 18th-century astronomer who explored comets in the night sky. Messier knew that star clusters, nebulae, and galaxies that looked like comets were interfering with observations, so he wrote them down one by one so that he would not mistake them for comets. The list of these celestial bodies is the Messier objects.
 
 The poster shows 109 Messier objects. Each celestial body is marked within a tiled square. The width of one tile has a viewing angle of 0.5°. They are all the same scale, which will help you compare the relative sizes of celestial bodies. (The celestial bodies across multiple tiles has subtly different viewing angles, but not a big difference from multiple of tile numbers.)
@@ -27,8 +30,6 @@ The source file (messier_catalogue.hml) was written in Hancom Office HWPML 2.X f
 
   * 포스터 크기: 가로 560mm X 세로 840mm
   * M102는 메시에 목록에는 포함되어 있으나 이에 해당하는 천체가 발견되지 않았습니다.
-
-![Messier Catalogue Poster](./doc/messier_catalogue_v1.2_thumb.jpg)
 
 # 버전
   * v1.2 – 2013년 5월 8일
