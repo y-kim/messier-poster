@@ -7,14 +7,14 @@ Charles Messier was an 18th-century astronomer who explored comets in the night 
 The poster shows 109 Messier objects. Each celestial body is marked within a tiled square. The width of one tile has a viewing angle of 0.5°. They are all the same scale, which will help you compare the relative sizes of celestial bodies. (The celestial bodies across multiple tiles has subtly different viewing angles, but not a big difference from multiple of tile numbers.)
 
    * Poster size: 560mm wide X 840mm long
-   * M102 is included in the Messier list, but no equivalent objects have been found. 
+   * M102 is included in the Messier list, but no equivalent object have been found. 
 
 # Version History
-  * v1.2-May 8, 2013 (![Download](https://github.com/y-kim/messier-poster/releases/tag/v1.2))
+  * v1.2-May 8, 2013 ([Download](https://github.com/y-kim/messier-poster/releases/tag/v1.2))
     * Reference Wikipedia for information of celestial bodies
     * Reduce line spacing
     * Change the label position of the M110
-    * Change the paper size (560mm x 840mm, ratio consists of 2:3) 
+    * Change the paper size (560mm x 840mm) 
 
 # License
 The PDF file can be used for personal or academic purposes only. Commercial use is prohibited
@@ -32,7 +32,7 @@ The source file (messier_catalogue.hml) was written in Hancom Office HWPML 2.X f
   * M102는 메시에 목록에는 포함되어 있으나 이에 해당하는 천체가 발견되지 않았습니다.
 
 # 버전
-  * v1.2 – 2013년 5월 8일
+  * v1.2 – 2013년 5월 8일 ([Download](https://github.com/y-kim/messier-poster/releases/tag/v1.2))
     * 천체 데이터를 Wikipedia에서 참조
     * 줄간격 축소. M110의 레이블 위치 변경
     * 종이크기 변경 (560mm x 840mm, 비율을 2:3으로 구성)
