@@ -1,6 +1,6 @@
 # Messier Object Catalogue Poster
 
-![Messier Catalogue Poster](./doc/messier_catalogue_v1.2_thumb.jpg)
+![Messier Catalogue Poster](https://raw.githubusercontent.com/y-kim/messier-poster/master/doc/messier_catalogue_v1.2_thumb.jpg)
 
 Charles Messier was an 18th-century astronomer who explored comets in the night sky. Messier knew that star clusters, nebulae, and galaxies that looked like comets were interfering with observations, so he wrote them down one by one so that he would not mistake them for comets. The list of these celestial bodies is the Messier objects.
 
